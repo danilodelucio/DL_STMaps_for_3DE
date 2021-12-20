@@ -47,7 +47,7 @@ Then here we go.
 
 # Finally
 
-So this is the deal: to help create both STMaps without using CMD and calculate the overscan manually, everything working in a simple and humble GUI.
+So this is the deal: to help create both STMaps without using CMD and calculate the overscan manually, with everything working in a simple and humble GUI.
 
 I hope you enjoy it, thanks in advance!
 
