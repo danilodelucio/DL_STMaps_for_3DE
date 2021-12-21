@@ -45,10 +45,19 @@ Then here we go.
 
 ![Screenshot 2021-12-20 141643](https://user-images.githubusercontent.com/47226196/146806425-cc0670ea-cbf2-4907-873e-7acb4f3c7abb.png)
 
+><b><h1>WARNING</h1></b>
+>
+><i>All steps in "Manual Process (how it was)", I learned with some VFX professionals in the past.
+>I don't know the original source and I can't provide the required files either.
+>
+>My goal here was to develop this tool as a personal project, helping the 3DE users to generate STMaps faster and automatically.</i>
+
 # Finally
 
-So this is the deal: to help create both STMaps without using CMD and calculate the overscan manually, with everything working in a simple and humble GUI.
+So this is the deal: to help create both STMaps without using CMD or calculate the overscan manually, with everything working in a simple and humble GUI.
 
+For any concerns, please keep in touch: danilodelucio@gmail.com
+  
 I hope you enjoy it, thanks in advance!
 
 <b>Danilo de Lucio</b>
