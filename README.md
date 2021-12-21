@@ -48,8 +48,8 @@ Then here we go.
 ><b><h1>WARNING</h1></b>
 >
 ><i>All steps in "Manual Process (how it was)", I learned with some VFX professionals in the past.
-><br>I don't know the original source and I can't provide the required files either.
-><br>My goal here was to develop this tool as a personal project, helping the 3DE users to generate STMaps faster and automatically.</i>
+>I don't know the original source and I can't provide the required files either.
+><p>My goal here was to develop this tool as a personal project, helping the 3DE users to generate STMaps faster and automatically.</i></p>
 
 # Finally
 
